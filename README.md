@@ -69,14 +69,9 @@ Online-Learning-Course-Recommendation-Platform/
 ```
 
 Screenshots
-- `docs/screenshots/dashboard.png` — (add screenshots by running the app and saving images here)
-
-Summary & future improvements:
-- Basic working scaffold with API and frontend connected to MongoDB Atlas.
-- Improvements: richer recommendation algorithm (collaborative filtering), RBAC, tests, CI/CD, UI polish, caching.
-
-Author
-- Your Name — replace this with the project author details.
+ | ![](docs/screenshots/dashboard1.png) | ![](docs/screenshots/dashboard2.png) | ![](docs/screenshots/dash3.png) |
+ | ![](docs/screenshots/dash4.png)      | ![](docs/screenshots/dash5.png)      | ![](docs/screenshots/dash6.png) |
+ 
 
 ---
 Generated/updated by assistant to prepare the project for local development.
